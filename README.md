@@ -16,7 +16,7 @@ In this work, we delve into an intriguing question: **Can CLIP-based video learn
 
 ## 📚 XOV-Action Benchmark
 ### New Features 🔥
-- XOV-Action is the first benchmark, composed of two training datasets and four test datasets, for evaluating models in the cross-domain open-vocabulary action recognition task. 
+- XOV-Action is the first benchmark, composed of two training datasets and four test datasets, for evaluating models in the *cross-domain open-vocabulary action recognition* task. 
 - We identify closed-set and open-set categories for each test domain, thus providing a comprehensive way to evaluate models across various situations. *This is  different from prevailing existing open-vocabulary action recognition works that treat all the categories in another datasets as open-set.* 
 
 ### Benchmark Components
