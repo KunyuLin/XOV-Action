@@ -5,7 +5,7 @@
 ![alt text](xovaction_setting.png)
 <!-- https://github.com/KunyuLin/XOV-Action/blob/main/xovaction_setting.png?raw=true -->
 
-- This repository is for the paper titled "*Rethinking CLIP-based Video Learners in Cross-Domain Open-Vocabulary Action Recognition*". 
+- This repository is for the paper titled "[*Rethinking CLIP-based Video Learners in Cross-Domain Open-Vocabulary Action Recognition*](https://arxiv.org/abs/2403.01560)". 
 In this work, we delve into an intriguing question: **Can CLIP-based video learners effectively generalize to video domains that they have not encountered during training?** 
 
 ![alt text](xovaction_results.png)
