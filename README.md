@@ -46,9 +46,12 @@ Please refer to our paper for more details.
 
 - If you find our paper/code/benchmark useful, please consider citing our paper:
 ```
-@inproceedings{lin2024xovaction,
+@misc{lin2024xovaction,
   author       = {Kun-Yu Lin, Henghui Ding, Jiaming Zhou, Yi-Xing Peng, Zhilin Zhao, Chen Change Loy, Wei-Shi Zheng},
   title        = {Rethinking CLIP-based Video Learners in Cross-Domain Open-Vocabulary Action Recognition},
   year         = {2024},
+  eprint       = {2403.01560},
+  archivePrefix= {arXiv},
+  primaryClass = {cs.CV}
 }
 ```
