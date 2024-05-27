@@ -30,7 +30,7 @@ In this work, we delve into an intriguing question: **Can CLIP-based video learn
 - **NEC-Drone**: A dataset consisting of 16 categories of action videos, which are recorded by drones in the same basketball court. 
 
 ### Evaluation Metrics
-- The **closed-set accuracy** measures the recognition performance of closed-set categories, which primarily evaluates the model abilities of tackling domain gaps.
+- The **closed-set accuracy** measures the recognition performance of closed-set categories, which primarily evaluates the model abilities of tackling domain gaps when fitting training videos.
 - The **open-set accuracy** measures the performance of open-set categories, which evaluates the generalization abilities across both video domains and action categories.
 - The **overall accuracy** measures the recognition performance over all categories, which provides a holistic view of model effectiveness across various situations.
 
